@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/pus taka-booking-3a/';
+$config['base_url'] = 'http://localhost/pustaka-booking-3a/';
 
 /*
 |--------------------------------------------------------------------------
